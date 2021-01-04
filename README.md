@@ -1,8 +1,9 @@
-##Overview
+## Overview
+
 This is a simple project to study microservices, is important to say that this project should not be used in production, We have more ways and tools to manage a real project, so please, use this project only for study.
 
-- **[Requirements](#requirements)**
-- **[Getting Started](#real-cool-heading)**
+- **[Requirements](#-getting-started)**
+- **[Getting Started](#-how-it-works?)**
 
 ### Requirements
 
